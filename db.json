@@ -1,0 +1,1160 @@
+{
+    "Afghanistan": {
+        "countryCode": "AF",
+        "currencyCode": "AFN",
+        "monthlyPrice": "429.69",
+        "yearlyPrice": "2578.15"
+    },
+    "Albania": {
+        "countryCode": "AL",
+        "currencyCode": "ALL",
+        "monthlyPrice": "516.50",
+        "yearlyPrice": "3,096"
+    },
+    "Algeria": {
+        "countryCode": "DZ",
+        "currencyCode": "DZD",
+        "monthlyPrice": "677",
+        "yearlyPrice": "4,066"
+    },
+    "Angola": {
+        "countryCode": "AO",
+        "currencyCode": "AOA",
+        "monthlyPrice": "2,553",
+        "yearlyPrice": "1,5318"
+    },
+    "Argentina": {
+        "countryCode": "AR",
+        "currencyCode": "ARS",
+        "monthlyPrice": "1,062",
+        "yearlyPrice": "6,377"
+    },
+    "Armenia": {
+        "countryCode": "AM",
+        "currencyCode": "AMD",
+        "monthlyPrice": "1,953",
+        "yearlyPrice": "11,722"
+    },
+    "Australia": {
+        "countryCode": "AU",
+        "currencyCode": "AUD",
+        "monthlyPrice": "7",
+        "yearlyPrice": "45"
+    },
+    "Austria": {
+        "countryCode": "AT",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4",
+        "yearlyPrice": "27"
+    },
+    "Azerbaijan": {
+        "countryCode": "AZ",
+        "currencyCode": "AZN",
+        "monthlyPrice": "8",
+        "yearlyPrice": "51"
+    },
+    "Bahamas": {
+        "countryCode": "BS",
+        "currencyCode": "BSD",
+        "monthlyPrice": "5",
+        "yearlyPrice": "30"
+    },
+    "Bahrain": {
+        "countryCode": "BH",
+        "currencyCode": "BHD",
+        "monthlyPrice": "2",
+        "yearlyPrice": "11"
+    },
+    "Bangladesh": {
+        "countryCode": "BD",
+        "currencyCode": "BDT",
+        "monthlyPrice": "528",
+        "yearlyPrice": "3,173"
+    },
+    "Barbados": {
+        "countryCode": "BB",
+        "currencyCode": "BBD",
+        "monthlyPrice": "10",
+        "yearlyPrice": "60"
+    },
+    "Belarus": {
+        "countryCode": "BY",
+        "currencyCode": "BYN",
+        "monthlyPrice": "12",
+        "yearlyPrice": "75"
+    },
+    "Belgium": {
+        "countryCode": "BE",
+        "currencyCode": "EUR",
+        "monthlyPrice": "5",
+        "yearlyPrice": "28"
+    },
+    "Belize": {
+        "countryCode": "BZ",
+        "currencyCode": "BZD",
+        "monthlyPrice": "10.08",
+        "yearlyPrice": "60"
+    },
+    "Benin": {
+        "countryCode": "BJ",
+        "currencyCode": "XOF",
+        "monthlyPrice": "3,000",
+        "yearlyPrice": "18,005"
+    },
+    "Bhutan": {
+        "countryCode": "BT",
+        "currencyCode": "BTN",
+        "monthlyPrice": "13068",
+        "yearlyPrice": "78408"
+    },
+    "Bolivia": {
+        "countryCode": "BO",
+        "currencyCode": "BOB",
+        "monthlyPrice": "34",
+        "yearlyPrice": "207"
+    },
+    "Bosnia and Herzegovina": {
+        "countryCode": "BA",
+        "currencyCode": "BAM",
+        "monthlyPrice": "8.95",
+        "yearlyPrice": "53"
+    },
+    "Botswana": {
+        "countryCode": "BW",
+        "currencyCode": "BWP",
+        "monthlyPrice": "65.29",
+        "yearlyPrice": "391.74"
+    },
+    "Brazil": {
+        "countryCode": "BR",
+        "currencyCode": "BRL",
+        "monthlyPrice": "25.26",
+        "yearlyPrice": "151.57"
+    },
+    "Brunei": {
+        "countryCode": "BN",
+        "currencyCode": "BND",
+        "monthlyPrice": "9.90",
+        "yearlyPrice": "99.90"
+    },
+    "Bulgaria": {
+        "countryCode": "BG",
+        "currencyCode": "BGN",
+        "monthlyPrice": "8.94",
+        "yearlyPrice": "53.67"
+    },
+    "Burkina Faso": {
+        "countryCode": "BF",
+        "currencyCode": "XOF",
+        "monthlyPrice": "990",
+        "yearlyPrice": "9,990"
+    },
+    "Burundi": {
+        "countryCode": "BI",
+        "currencyCode": "BIF",
+        "monthlyPrice": "10,326.76",
+        "yearlyPrice": "24,990"
+    },
+    "Cabo Verde": {
+        "countryCode": "CV",
+        "currencyCode": "CVE",
+        "monthlyPrice": "502.18",
+        "yearlyPrice": "3,013.06"
+    },
+    "Cambodia": {
+        "countryCode": "KH",
+        "currencyCode": "KHR",
+        "monthlyPrice": "20,131",
+        "yearlyPrice": "120,786.29"
+    },
+    "Cameroon": {
+        "countryCode": "CM",
+        "currencyCode": "XAF",
+        "monthlyPrice": "2,980.36",
+        "yearlyPrice": "17,882.15"
+    },
+    "Canada": {
+        "countryCode": "CA",
+        "currencyCode": "CAD",
+        "monthlyPrice": "6.75",
+        "yearlyPrice": "40.50"
+    },
+    "Central African Republic": {
+        "countryCode": "CF",
+        "currencyCode": "XAF",
+        "monthlyPrice": "2,980.36",
+        "yearlyPrice": "17,882.15"
+    },
+    "Chad": {
+        "countryCode": "TD",
+        "currencyCode": "XAF",
+        "monthlyPrice": "2,980.36",
+        "yearlyPrice": "17,882.15"
+    },
+    "Chile": {
+        "countryCode": "CL",
+        "currencyCode": "CLP",
+        "monthlyPrice": "4,090.57",
+        "yearlyPrice": "24,543.39"
+    },
+    "China": {
+        "countryCode": "CN",
+        "currencyCode": "CNY",
+        "monthlyPrice": "34.33",
+        "yearlyPrice": "205.96"
+    },
+    "Colombia": {
+        "countryCode": "CO",
+        "currencyCode": "COP",
+        "monthlyPrice": "22,838.47",
+        "yearlyPrice": "137,030.79"
+    },
+    "Comoros": {
+        "countryCode": "KM",
+        "currencyCode": "KMF",
+        "monthlyPrice": "2,254.63",
+        "yearlyPrice": "13,527.80"
+    },
+    "Congo, Republic of the": {
+        "countryCode": "CG",
+        "currencyCode": "XAF",
+        "monthlyPrice": "10,235.16",
+        "yearlyPrice": "61,410.94"
+    },
+    "Costa Rica": {
+        "countryCode": "CR",
+        "currencyCode": "CRC",
+        "monthlyPrice": "2,668.69",
+        "yearlyPrice": "16,012.15"
+    },
+    "Cote d'Ivoire": {
+        "countryCode": "CI",
+        "currencyCode": "XOF",
+        "monthlyPrice": "3,005.83",
+        "yearlyPrice": "18,035.00"
+    },
+    "Croatia": {
+        "countryCode": "HR",
+        "currencyCode": "HRK",
+        "monthlyPrice": "34.54",
+        "yearlyPrice": "207.24"
+    },
+    "Cuba": {
+        "countryCode": "CU",
+        "currencyCode": "CUP",
+        "monthlyPrice": "119.09",
+        "yearlyPrice": "714.52"
+    },
+    "Cyprus": {
+        "countryCode": "CY",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.58",
+        "yearlyPrice": "27.50"
+    },
+    "Czech Republic": {
+        "countryCode": "CZ",
+        "currencyCode": "CZK",
+        "monthlyPrice": "107.06",
+        "yearlyPrice": "642.36"
+    },
+    "Democratic Republic of the Congo": {
+        "countryCode": "CD",
+        "currencyCode": "CDF",
+        "monthlyPrice": "1,0235.16",
+        "yearlyPrice": "61,410.94"
+    },
+    "Denmark": {
+        "countryCode": "DK",
+        "currencyCode": "DKK",
+        "monthlyPrice": "34.13",
+        "yearlyPrice": "204.77"
+    },
+    "Djibouti": {
+        "countryCode": "DJ",
+        "currencyCode": "DJF",
+        "monthlyPrice": "890.68",
+        "yearlyPrice": "5,344.06"
+    },
+    "Dominica": {
+        "countryCode": "DM",
+        "currencyCode": "XCD",
+        "monthlyPrice": "13.50",
+        "yearlyPrice": "81.02"
+    },
+    "Dominican Republic": {
+        "countryCode": "DO",
+        "currencyCode": "DOP",
+        "monthlyPrice": "274.42",
+        "yearlyPrice": "1,646.52"
+    },
+    "Ecuador": {
+        "countryCode": "EC",
+        "currencyCode": "USD",
+        "monthlyPrice": "5",
+        "yearlyPrice": "29.98"
+    },
+    "Egypt": {
+        "countryCode": "EG",
+        "currencyCode": "EGP",
+        "monthlyPrice": "154.30 ",
+        "yearlyPrice": "925.81"
+    },
+    "El Salvador": {
+        "countryCode": "SV",
+        "currencyCode": "USD",
+        "monthlyPrice": "43.77",
+        "yearlyPrice": "262.61"
+    },
+    "Equatorial Guinea": {
+        "countryCode": "GQ",
+        "currencyCode": "XAF",
+        "monthlyPrice": "42,939.44",
+        "yearlyPrice": "257,636.62"
+    },
+    "Eritrea": {
+        "countryCode": "ER",
+        "currencyCode": "ERN",
+        "monthlyPrice": "74.85",
+        "yearlyPrice": "449.1090"
+    },
+    "Estonia": {
+        "countryCode": "EE",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.58",
+        "yearlyPrice": "27.49"
+    },
+    "Eswatini": {
+        "countryCode": "SZ",
+        "currencyCode": "SZL",
+        "monthlyPrice": "91.84",
+        "yearlyPrice": "551.02"
+    },
+    "Ethiopia": {
+        "countryCode": "ET",
+        "currencyCode": "ETB",
+        "monthlyPrice": "271.85",
+        "yearlyPrice": "1,631.07"
+    },
+    "Fiji": {
+        "countryCode": "FJ",
+        "currencyCode": "FJD",
+        "monthlyPrice": "11.02",
+        "yearlyPrice": "66.11"
+    },
+    "Finland": {
+        "countryCode": "FI",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.58",
+        "yearlyPrice": "27.48"
+    },
+    "France": {
+        "countryCode": "FR",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.58",
+        "yearlyPrice": "27.48"
+    },
+    "Gabon": {
+        "countryCode": "GA",
+        "currencyCode": "XAF",
+        "monthlyPrice": "3,004.62",
+        "yearlyPrice": "18,027.71"
+    },
+    "Gambia": {
+        "countryCode": "GM",
+        "currencyCode": "GMD",
+        "monthlyPrice": "310.78",
+        "yearlyPrice": "1,864.66"
+    },
+    "Georgia": {
+        "countryCode": "GE",
+        "currencyCode": "GEL",
+        "monthlyPrice": "12.62",
+        "yearlyPrice": "75.70"
+    },
+    "Germany": {
+        "countryCode": "DE",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.58",
+        "yearlyPrice": "27.48"
+    },
+    "Ghana": {
+        "countryCode": "GH",
+        "currencyCode": "GHS",
+        "monthlyPrice": "54.52",
+        "yearlyPrice": "327.13"
+    },
+    "Greece": {
+        "countryCode": "GR",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.58",
+        "yearlyPrice": "27.48"
+    },
+    "Grenada": {
+        "countryCode": "GD",
+        "currencyCode": "XCD",
+        "monthlyPrice": "13.50",
+        "yearlyPrice": "81.02"
+    },
+    "Guatemala": {
+        "countryCode": "GT",
+        "currencyCode": "GTQ",
+        "monthlyPrice": "39.00",
+        "yearlyPrice": "234.03"
+    },
+    "Guinea": {
+        "countryCode": "GN",
+        "currencyCode": "GNF",
+        "monthlyPrice": "3,004.65",
+        "yearlyPrice": "257,966.68"
+    },
+    "Guinea-Bissau": {
+        "countryCode": "GW",
+        "currencyCode": "XOF",
+        "monthlyPrice": "13,184.05",
+        "yearlyPrice": "18,027.88"
+    },
+    "Guyana": {
+        "countryCode": "GY",
+        "currencyCode": "GYD",
+        "monthlyPrice": "1,049.44",
+        "yearlyPrice": "6,296.64"
+    },
+    "Haiti": {
+        "countryCode": "HT",
+        "currencyCode": "HTG",
+        "monthlyPrice": "775.28",
+        "yearlyPrice": "4651.69"
+    },
+    "Honduras": {
+        "countryCode": "HN",
+        "currencyCode": "HNL",
+        "monthlyPrice": "738.31",
+        "yearlyPrice": "123.05"
+    },
+    "Hungary": {
+        "countryCode": "HU",
+        "currencyCode": "HUF",
+        "monthlyPrice": "1,717.79",
+        "yearlyPrice": "10,306.72"
+    },
+    "Iceland": {
+        "countryCode": "IS",
+        "currencyCode": "ISK",
+        "monthlyPrice": "685.76",
+        "yearlyPrice": "4,114.55"
+    },
+    "India": {
+        "countryCode": "IN",
+        "currencyCode": "INR",
+        "monthlyPrice": "409.64",
+        "yearlyPrice": "2,457.82"
+    },
+    "Indonesia": {
+        "countryCode": "ID",
+        "currencyCode": "IDR",
+        "monthlyPrice": "74,588.49",
+        "yearlyPrice": "447,530.94"
+    },
+    "Iran": {
+        "countryCode": "IR",
+        "currencyCode": "IRR",
+        "monthlyPrice": "210,831.71",
+        "yearlyPrice": "1,264,990.28"
+    },
+    "Iraq": {
+        "countryCode": "IQ",
+        "currencyCode": "IQD",
+        "monthlyPrice": "7,290.54 ",
+        "yearlyPrice": "43,743.21"
+    },
+    "Ireland": {
+        "countryCode": "IE",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.58",
+        "yearlyPrice": "27.49"
+    },
+    "Israel": {
+        "countryCode": "IL",
+        "currencyCode": "ILS",
+        "monthlyPrice": "18.04",
+        "yearlyPrice": "108.23"
+    },
+    "Italy": {
+        "countryCode": "IT",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.58",
+        "yearlyPrice": "27.49"
+    },
+    "Jamaica": {
+        "countryCode": "JM",
+        "currencyCode": "JMD",
+        "monthlyPrice": "760.64",
+        "yearlyPrice": "4,563.81"
+    },
+    "Japan": {
+        "countryCode": "JP",
+        "currencyCode": "JPY",
+        "monthlyPrice": "661.03",
+        "yearlyPrice": "3,966.17"
+    },
+    "Jordan": {
+        "countryCode": "JO",
+        "currencyCode": "JOD",
+        "monthlyPrice": "3.54",
+        "yearlyPrice": "21.27"
+    },
+    "Kazakhstan": {
+        "countryCode": "KZ",
+        "currencyCode": "KZT",
+        "monthlyPrice": "2,231.05",
+        "yearlyPrice": "13,386.28"
+    },
+    "Kenya": {
+        "countryCode": "KE",
+        "currencyCode": "KES",
+        "monthlyPrice": "667.52",
+        "yearlyPrice": "4,005.13"
+    },
+    "Kiribati": {
+        "countryCode": "KI",
+        "currencyCode": "AUD",
+        "monthlyPrice": "7.54",
+        "yearlyPrice": "45.26"
+    },
+    "Kosovo": {
+        "countryCode": "XK",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.61",
+        "yearlyPrice": "27.64"
+    },
+    "Kuwait": {
+        "countryCode": "KW",
+        "currencyCode": "KWD",
+        "monthlyPrice": "1.53",
+        "yearlyPrice": "9.19"
+    },
+    "Kyrgyzstan": {
+        "countryCode": "KG",
+        "currencyCode": "KGS",
+        "monthlyPrice": "436.80",
+        "yearlyPrice": "2,620.78"
+    },
+    "Laos": {
+        "countryCode": "LA",
+        "currencyCode": "LAK",
+        "monthlyPrice": "85,670.90",
+        "yearlyPrice": "514,025.42"
+    },
+    "Latvia": {
+        "countryCode": "LV",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.60",
+        "yearlyPrice": "27.62"
+    },
+    "Lebanon": {
+        "countryCode": "LB",
+        "currencyCode": "LBP",
+        "monthlyPrice": "75,085.03",
+        "yearlyPrice": "450,510.20"
+    },
+    "Lesotho": {
+        "countryCode": "LS",
+        "currencyCode": "LSL",
+        "monthlyPrice": "91.38",
+        "yearlyPrice": "548.31"
+    },
+    "Liberia": {
+        "countryCode": "LR",
+        "currencyCode": "LRD",
+        "monthlyPrice": "812.17",
+        "yearlyPrice": "4,873.00"
+    },
+    "Libya": {
+        "countryCode": "LY",
+        "currencyCode": "LYD",
+        "monthlyPrice": "23.84",
+        "yearlyPrice": "143.01"
+    },
+    "Liechtenstein": {
+        "countryCode": "LI",
+        "currencyCode": "CHF",
+        "monthlyPrice": "4.55",
+        "yearlyPrice": "27.28"
+    },
+    "Lithuania": {
+        "countryCode": "LT",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.60",
+        "yearlyPrice": "27.62"
+    },
+    "Luxembourg": {
+        "countryCode": "LU",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.60",
+        "yearlyPrice": "27.62"
+    },
+    "Madagascar": {
+        "countryCode": "MG",
+        "currencyCode": "MGA",
+        "monthlyPrice": "21,856.77",
+        "yearlyPrice": "131,140.62"
+    },
+    "Malawi": {
+        "countryCode": "MW",
+        "currencyCode": "MWK",
+        "monthlyPrice": "5,134.42",
+        "yearlyPrice": "30,806.50"
+    },
+    "Malaysia": {
+        "countryCode": "MY",
+        "currencyCode": "MYR",
+        "monthlyPrice": "5,580.89",
+        "yearlyPrice": "30,806.50"
+    },
+    "Maldives": {
+        "countryCode": "MV",
+        "currencyCode": "MVR",
+        "monthlyPrice": "76.74",
+        "yearlyPrice": "460.47"
+    },
+    "Mali": {
+        "countryCode": "ML",
+        "currencyCode": "XOF",
+        "monthlyPrice": "3,017.17",
+        "yearlyPrice": "18,103.03"
+    },
+    "Malta": {
+        "countryCode": "MT",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.60",
+        "yearlyPrice": "27.62"
+    },
+    "Marshall Islands": {
+        "countryCode": "MH",
+        "currencyCode": "USD",
+        "monthlyPrice": "5",
+        "yearlyPrice": "29.98"
+    },
+    "Mauritania": {
+        "countryCode": "MR",
+        "currencyCode": "MRU",
+        "monthlyPrice": "170.98",
+        "yearlyPrice": "1,025.86"
+    },
+    "Mauritius": {
+        "countryCode": "MU",
+        "currencyCode": "MUR",
+        "monthlyPrice": "226.59",
+        "yearlyPrice": "1,359.52"
+    },
+    "Mexico": {
+        "countryCode": "MX",
+        "currencyCode": "MXN",
+        "monthlyPrice": "90.91 ",
+        "yearlyPrice": "545.47"
+    },
+    "Micronesia": {
+        "countryCode": "FM",
+        "currencyCode": "USD",
+        "monthlyPrice": "5.00",
+        "yearlyPrice": "29.98"
+    },
+    "Moldova": {
+        "countryCode": "MD",
+        "currencyCode": "MDL",
+        "monthlyPrice": "90.79",
+        "yearlyPrice": "544.77"
+    },
+    "Monaco": {
+        "countryCode": "MC",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.60",
+        "yearlyPrice": "27.63"
+    },
+    "Mongolia": {
+        "countryCode": "MN",
+        "currencyCode": "MNT",
+        "monthlyPrice": "17,560.16",
+        "yearlyPrice": "105,360.97"
+    },
+    "Montenegro": {
+        "countryCode": "ME",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.60",
+        "yearlyPrice": "27.63"
+    },
+    "Morocco": {
+        "countryCode": "MA",
+        "currencyCode": "MAD",
+        "monthlyPrice": "50.91",
+        "yearlyPrice": "305.47"
+    },
+    "Mozambique": {
+        "countryCode": "MZ",
+        "currencyCode": "MZN",
+        "monthlyPrice": "316.02",
+        "yearlyPrice": "1,896.14"
+    },
+    "Myanmar": {
+        "countryCode": "MM",
+        "currencyCode": "MMK",
+        "monthlyPrice": "10,504.81",
+        "yearlyPrice": "63,028.88"
+    },
+    "Namibia": {
+        "countryCode": "NA",
+        "currencyCode": "NAD",
+        "monthlyPrice": "92.36",
+        "yearlyPrice": "554.15"
+    },
+    "Nauru": {
+        "countryCode": "NR",
+        "currencyCode": "AUD",
+        "monthlyPrice": "7.54",
+        "yearlyPrice": "45.24"
+    },
+    "Nepal": {
+        "countryCode": "NP",
+        "currencyCode": "NPR",
+        "monthlyPrice": "654.35",
+        "yearlyPrice": "3,926.09"
+    },
+    "Netherlands": {
+        "countryCode": "NL",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.61",
+        "yearlyPrice": "27.63"
+    },
+    "New Zealand": {
+        "countryCode": "NZ",
+        "currencyCode": "NZD",
+        "monthlyPrice": "8.05",
+        "yearlyPrice": "48.29"
+    },
+    "Nicaragua": {
+        "countryCode": "NI",
+        "currencyCode": "NIO",
+        "monthlyPrice": "182.97",
+        "yearlyPrice": "1,097.80"
+    },
+    "Niger": {
+        "countryCode": "NE",
+        "currencyCode": "XOF",
+        "monthlyPrice": "3004.65",
+        "yearlyPrice": "18,027.88"
+    },
+    "Nigeria": {
+        "countryCode": "NG",
+        "currencyCode": "NGN",
+        "monthlyPrice": "2,300",
+        "yearlyPrice": "13,800"
+    },
+    "North Korea": {
+        "countryCode": "KP",
+        "currencyCode": "KPW",
+        "monthlyPrice": "4,496.7",
+        "yearlyPrice": "26,980.28"
+    },
+    "North Macedonia": {
+        "countryCode": "MK",
+        "currencyCode": "MKD",
+        "monthlyPrice": "281.90",
+        "yearlyPrice": "1,691.38"
+    },
+    "Norway": {
+        "countryCode": "NO",
+        "currencyCode": "NOK",
+        "monthlyPrice": "52.66",
+        "yearlyPrice": "315.94"
+    },
+    "Oman": {
+        "countryCode": "OM",
+        "currencyCode": "OMR",
+        "monthlyPrice": "1.93",
+        "yearlyPrice": "11.56"
+    },
+    "Pakistan": {
+        "countryCode": "PK",
+        "currencyCode": "PKR",
+        "monthlyPrice": "1,405.65",
+        "yearlyPrice": "8433.92"
+    },
+    "Palau": {
+        "countryCode": "PW",
+        "currencyCode": "USD",
+        "monthlyPrice": "5.00",
+        "yearlyPrice": "29.98"
+    },
+    "Panama": {
+        "countryCode": "PA",
+        "currencyCode": "PAB",
+        "monthlyPrice": "5.00",
+        "yearlyPrice": "30.01"
+    },
+    "Papua New Guinea": {
+        "countryCode": "PG",
+        "currencyCode": "PGK",
+        "monthlyPrice": "17.62",
+        "yearlyPrice": "105.75"
+    },
+    "Paraguay": {
+        "countryCode": "PY",
+        "currencyCode": "PYG",
+        "monthlyPrice": "35,863.39",
+        "yearlyPrice": "215,180.32"
+    },
+    "Peru": {
+        "countryCode": "PE",
+        "currencyCode": "PEN",
+        "monthlyPrice": "18.83",
+        "yearlyPrice": "112.97"
+    },
+    "Philippines": {
+        "countryCode": "PH",
+        "currencyCode": "PHP",
+        "monthlyPrice": "273.42",
+        "yearlyPrice": "1,640.51"
+    },
+    "Poland": {
+        "countryCode": "PL",
+        "currencyCode": "PLN",
+        "monthlyPrice": "21.61",
+        "yearlyPrice": "129.64"
+    },
+    "Portugal": {
+        "countryCode": "PT",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.61",
+        "yearlyPrice": "27.65"
+    },
+    "Qatar": {
+        "countryCode": "QA",
+        "currencyCode": "QAR",
+        "monthlyPrice": "18.19",
+        "yearlyPrice": "109.14"
+    },
+    "Romania": {
+        "countryCode": "RO",
+        "currencyCode": "RON",
+        "monthlyPrice": "22.72",
+        "yearlyPrice": "136.34"
+    },
+    "Russia": {
+        "countryCode": "RU",
+        "currencyCode": "RUB",
+        "monthlyPrice": "408.01",
+        "yearlyPrice": "2,448.04"
+    },
+    "Rwanda": {
+        "countryCode": "RW",
+        "currencyCode": "RWF",
+        "monthlyPrice": "5,533.53",
+        "yearlyPrice": "33,201.18"
+    },
+    "Saint Kitts and Nevis": {
+        "countryCode": "KN",
+        "currencyCode": "XCD",
+        "monthlyPrice": "13.50",
+        "yearlyPrice": "81.02"
+    },
+    "Saint Lucia": {
+        "countryCode": "LC",
+        "currencyCode": "XCD",
+        "monthlyPrice": "13.50",
+        "yearlyPrice": "81.02"
+    },
+    "Saint Vincent and the Grenadines": {
+        "countryCode": "VC",
+        "currencyCode": "XCD",
+        "monthlyPrice": "13.50",
+        "yearlyPrice": "81.02"
+    },
+    "Samoa": {
+        "countryCode": "WS",
+        "currencyCode": "WST",
+        "monthlyPrice": "13.6",
+        "yearlyPrice": "81.7"
+    },
+    "San Marino": {
+        "countryCode": "SM",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.61",
+        "yearlyPrice": "27.64"
+    },
+    "Sao Tome and Principe": {
+        "countryCode": "ST",
+        "currencyCode": "STN",
+        "monthlyPrice": "113,894",
+        "yearlyPrice": "683,364"
+    },
+    "Saudi Arabia": {
+        "countryCode": "SA",
+        "currencyCode": "SAR",
+        "monthlyPrice": "18.75 ",
+        "yearlyPrice": "112.48"
+    },
+    "Senegal": {
+        "countryCode": "SN",
+        "currencyCode": "XOF",
+        "monthlyPrice": "3003.22",
+        "yearlyPrice": "18019.31"
+    },
+    "Serbia": {
+        "countryCode": "RS",
+        "currencyCode": "RSD",
+        "monthlyPrice": "540.89",
+        "yearlyPrice": "3,245.32"
+    },
+    "Seychelles": {
+        "countryCode": "SC",
+        "currencyCode": "SCR",
+        "monthlyPrice": "69.84",
+        "yearlyPrice": "419.07"
+    },
+    "Sierra Leone": {
+        "countryCode": "SL",
+        "currencyCode": "SLL",
+        "monthlyPrice": "98,679.21",
+        "yearlyPrice": "592,075.25"
+    },
+    "Singapore": {
+        "countryCode": "SG",
+        "currencyCode": "SGD",
+        "monthlyPrice": "6.66",
+        "yearlyPrice": "39.97"
+    },
+    "Slovenia": {
+        "countryCode": "SI",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.61",
+        "yearlyPrice": "27.65"
+    },
+    "Solomon Islands": {
+        "countryCode": "SB",
+        "currencyCode": "SBD",
+        "monthlyPrice": "41.38",
+        "yearlyPrice": "248.30"
+    },
+    "Somalia": {
+        "countryCode": "SO",
+        "currencyCode": "SOS",
+        "monthlyPrice": "5.00",
+        "yearlyPrice": "29.98"
+    },
+    "South Africa": {
+        "countryCode": "ZA",
+        "currencyCode": "ZAR",
+        "monthlyPrice": "92.49",
+        "yearlyPrice": "554.95"
+    },
+    "South Korea": {
+        "countryCode": "KR",
+        "currencyCode": "KRW",
+        "monthlyPrice": "6,600.60 ",
+        "yearlyPrice": "39,603.62"
+    },
+    "South Sudan": {
+        "countryCode": "SS",
+        "currencyCode": "SSP",
+        "monthlyPrice": "650.83",
+        "yearlyPrice": "3,904.99"
+    },
+    "Spain": {
+        "countryCode": "ES",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.61",
+        "yearlyPrice": "27.65"
+    },
+    "Sri Lanka": {
+        "countryCode": "LK",
+        "currencyCode": "LKR",
+        "monthlyPrice": "1,599.52",
+        "yearlyPrice": "9,597.12"
+    },
+    "Sudan": {
+        "countryCode": "SD",
+        "currencyCode": "SDG",
+        "monthlyPrice": "2,990.35",
+        "yearlyPrice": "17,942.13"
+    },
+    "Suriname": {
+        "countryCode": "SR",
+        "currencyCode": "SRD",
+        "monthlyPrice": "182.19",
+        "yearlyPrice": "1,093.15"
+    },
+    "Sweden": {
+        "countryCode": "SE",
+        "currencyCode": "SEK",
+        "monthlyPrice": "52.64",
+        "yearlyPrice": "315.83"
+    },
+    "Switzerland": {
+        "countryCode": "CH",
+        "currencyCode": "CHF",
+        "monthlyPrice": "4.55",
+        "yearlyPrice": "27.28"
+    },
+    "Syria": {
+        "countryCode": "SY",
+        "currencyCode": "SYP",
+        "monthlyPrice": "12,553.64",
+        "yearlyPrice": "75,321.86"
+    },
+    "Taiwan": {
+        "countryCode": "TW",
+        "currencyCode": "TWD",
+        "monthlyPrice": "152.33 ",
+        "yearlyPrice": "913.98"
+    },
+    "Tajikistan": {
+        "countryCode": "TJ",
+        "currencyCode": "TJS",
+        "monthlyPrice": "54.55",
+        "yearlyPrice": "327.29"
+    },
+    "Tanzania": {
+        "countryCode": "TZ",
+        "currencyCode": "TZS",
+        "monthlyPrice": "11,710.23",
+        "yearlyPrice": "70,261.37"
+    },
+    "Thailand": {
+        "countryCode": "TH",
+        "currencyCode": "THB",
+        "monthlyPrice": "171.89",
+        "yearlyPrice": "1,031.34"
+    },
+    "Timor-Leste": {
+        "countryCode": "TL",
+        "currencyCode": "USD",
+        "monthlyPrice": "5.00",
+        "yearlyPrice": "29.98"
+    },
+    "Togo": {
+        "countryCode": "TG",
+        "currencyCode": "XOF",
+        "monthlyPrice": "3,018,88 ",
+        "yearlyPrice": "18,019.31"
+    },
+    "Tonga": {
+        "countryCode": "TO",
+        "currencyCode": "TOP",
+        "monthlyPrice": "11.72",
+        "yearlyPrice": "70.30"
+    },
+    "Trinidad and Tobago": {
+        "countryCode": "TT",
+        "currencyCode": "TTD",
+        "monthlyPrice": "33.96",
+        "yearlyPrice": "203.78"
+    },
+    "Tunisia": {
+        "countryCode": "TN",
+        "currencyCode": "TND",
+        "monthlyPrice": "15.32",
+        "yearlyPrice": "91.93"
+    },
+    "Turkey": {
+        "countryCode": "TR",
+        "currencyCode": "TRY",
+        "monthlyPrice": "96.27",
+        "yearlyPrice": "577.60"
+    },
+    "Turkmenistan": {
+        "countryCode": "TM",
+        "currencyCode": "TMT",
+        "monthlyPrice": "17.54",
+        "yearlyPrice": "105.22"
+    },
+    "Tuvalu": {
+        "countryCode": "TV",
+        "currencyCode": "AUD",
+        "monthlyPrice": "7.52",
+        "yearlyPrice": "45.15"
+    },
+    "Uganda": {
+        "countryCode": "UG",
+        "currencyCode": "UGX",
+        "monthlyPrice": "18,719.05",
+        "yearlyPrice": "112,314.29"
+    },
+    "Ukraine": {
+        "countryCode": "UA",
+        "currencyCode": "UAH",
+        "monthlyPrice": "183.90",
+        "yearlyPrice": "1,103.41"
+    },
+    "United Arab Emirates": {
+        "countryCode": "AE",
+        "currencyCode": "AED",
+        "monthlyPrice": "18.35",
+        "yearlyPrice": "110.10"
+    },
+    "United Kingdom": {
+        "countryCode": "GB",
+        "currencyCode": "GBP",
+        "monthlyPrice": "5",
+        "yearlyPrice": "29.98"
+    },
+    "United States of America": {
+        "countryCode": "US",
+        "currencyCode": "USD",
+        "monthlyPrice": "5",
+        "yearlyPrice": "29.98"
+    },
+    "Uruguay": {
+        "countryCode": "UY",
+        "currencyCode": "UYU",
+        "monthlyPrice": "193.65",
+        "yearlyPrice": "1,161.89"
+    },
+    "Uzbekistan": {
+        "countryCode": "UZ",
+        "currencyCode": "UZS",
+        "monthlyPrice": "57,009.10",
+        "yearlyPrice": "342,054.61"
+    },
+    "Vanuatu": {
+        "countryCode": "VU",
+        "currencyCode": "VUV",
+        "monthlyPrice": "600",
+        "yearlyPrice": "3,597"
+    },
+    "Vatican City": {
+        "countryCode": "VA",
+        "currencyCode": "EUR",
+        "monthlyPrice": "4.60",
+        "yearlyPrice": "27.62"
+    },
+    "Venezuela": {
+        "countryCode": "VE",
+        "currencyCode": "VES",
+        "monthlyPrice": "1,241,547.54",
+        "yearlyPrice": "7,449,285.21"
+    },
+    "Vietnam": {
+        "countryCode": "VN",
+        "currencyCode": "VND",
+        "monthlyPrice": "117,153.45",
+        "yearlyPrice": "702,920.73"
+    },
+    "Yemen": {
+        "countryCode": "YE",
+        "currencyCode": "YER",
+        "monthlyPrice": "1,250.98",
+        "yearlyPrice": "7,505.87"
+    },
+    "Zambia": {
+        "countryCode": "ZM",
+        "currencyCode": "ZMW",
+        "monthlyPrice": "99.05",
+        "yearlyPrice": "594.29"
+    },
+    "Zimbabwe": {
+        "countryCode": "ZW",
+        "currencyCode": "ZWL",
+        "monthlyPrice": "5.00",
+        "yearlyPrice": "29.98"
+    }
+}
